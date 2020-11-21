@@ -17,3 +17,6 @@ http://localhost:8000/api/image
 ```
 ## Teste direto no insominia
 [![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=image-base-64&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fjos3duardo%2Fimage-base-64%2Fmaster%2FInsomnia_2020-11-20)
+
+
+## link do Video explicando a criação deste projeto [aqui](https://youtu.be/K0ba9NcnssE)
