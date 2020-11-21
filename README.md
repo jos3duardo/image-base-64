@@ -2,6 +2,10 @@
 
 ao enviar uma requisição tipo POST para a url ela retorna o base64 desta imagem   
 
+## link do sistema online [aqui](https://image-base-64.vercel.app)  
+```
+https://image-base-64.vercel.app
+```
 
 rodano servidor local
 
@@ -20,3 +24,4 @@ http://localhost:8000/api/image
 
 
 ## link do Video explicando a criação deste projeto [aqui](https://youtu.be/K0ba9NcnssE)
+
